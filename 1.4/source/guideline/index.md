@@ -7,7 +7,7 @@
 # What is KISSY ?
 
 KISSY <a href="https://travis-ci.org/kissyteam/kissy" target="_blank">
-                        <img src="https://secure.travis-ci.org/kissyteam/kissy.png?branch=master"/>
+                        <img src="https://secure.travis-ci.org/kissyteam/kissy.png?branch=1.4.x"/>
                     </a> 是一款跨终端、模块化、高性能、使用简单的 JavaScript 框架。除了完备的工具集合如 DOM、Event、Ajax、Anim 等，它还提供了经典的面向对象、动态加载、性能优化解决方案。作为一款全终端支持的 JavaScript 框架，KISSY 为移动终端做了大量适配和优化，让你的程序在全终端均能流畅运行。
 
 KISSY is a powerful javascript framework for building cross end web application such as desktop, mobile and pad.
@@ -49,7 +49,7 @@ KISSY is a powerful javascript framework for building cross end web application 
 # 使用 KISSY 1.4
 
 1. 下载 [KISSY 1.4.7](https://github.com/kissyteam/kissy/archive/1.4.7.zip)
-2. 通过 cdn 使用 `//g.alicdn.com/kissy/k/1.4.7/seed-min.js` 或  `https://s.tbcdn.cn/g/kissy/k/1.4.7/seed-min.js`
+2. 通过 cdn 使用 `//g.alicdn.com/kissy/k/1.4.7/seed-min.js`
 3. npm 安装 KISSY: ``npm install kissy@1.4.7``
 4. bower 安装 KISSY: ``bower install kissy#1.4.7``
 
